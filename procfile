@@ -1,0 +1,1 @@
+web gunicorn suman.wsgi --log-file-
